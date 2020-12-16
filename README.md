@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumallyadev07&show_icons=true&locale=en&layout=compact" alt="soumallyadev07" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soumallyadev07&show_icons=true&locale=en" alt="soumallyadev07" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soumallyadev07&show_icons=true&locale=en" alt="soumallyadev07" /></p>
 
