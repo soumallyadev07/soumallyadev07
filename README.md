@@ -24,7 +24,7 @@
 <p><a href="https://www.buymeacoffee.com/SoumallyaDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumallyaDev" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumallyadev07&show_icons=true&locale=en&layout=compact" alt="soumallyadev07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumallyadev07&show_icons=true&locale=en&layout=compact" alt="soumallyadev07" width="350" height="200" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soumallyadev07&show_icons=true&locale=en" alt="soumallyadev07" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soumallyadev07&show_icons=true&locale=en" alt="soumallyadev07" width="350" height="200" /></p>
 
