@@ -7,14 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://soumallyadev.live](https://soumallyadev.live)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/soumallya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soumallya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumallya-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="soumallya-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/_soumallya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_soumallya_" height="30" width="40" /></a>
-</p>
-
 <img align="left" title="Soumallya Dev" alt="Soumallya Dev" width="400" src="./logos/animation.gif" />
 
 <h3>
