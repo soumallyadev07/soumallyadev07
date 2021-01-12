@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://soumallyadev.live](https://soumallyadev.live)
 
-- 📫 How to reach me **dev.soumallya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,8 +15,50 @@
 <a href="https://instagram.com/_soumallya_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_soumallya_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="left" title="Soumallya Dev" alt="Soumallya Dev" width="400" src="./logos/animation.gif" />
+
+<h3>
+Connect with me: <br>
+  
+<a href="https://soumallyadev07.github.io/"><img align="left" title="soumallyadev07.github.io" alt="soumallyadev07.github.io" width="22px" src="./logos/web_globe.svg" /></a>
+<a href="https://twitter.com/Soumallya_/"><img align="left" title="Twitter - Soumallya Dev" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
+<a href="https://linkedin.com/in/soumallya-dev/"><img align="left" title="LinkedIn - Soumallya Dev" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
+<a href="https://instagram.com/_soumallya_/"><img align="left" title="Instagram - Soumallya Dev" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
+<a href="https://stackoverflow.com/users/13823129/soumallya-dev/"><img align="left" title="Stack Overflow - Soumallya Dev" alt="Stack Overflow" width="22px" src="./logos/stackoverflow.svg" /></a>
+<a href="https://soumallyadev.live"><img align="left" title="Website - Soumallya Dev" alt="Website" width="22px" src="./logos/web_globe.svg" /></a>
+<a href="mailto:dev.soumallya@gmail.com"><img align="left" title="Mail - Soumallya Dev" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
+
+
+<br>
+<br>
+  
+Programming Languages I work with: <br>
+
+<img align="left" title="Python" alt="python" width="26px" src="./logos/python.svg" />
+<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
+<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
+<img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos/kotlin.svg" />
+<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos/javascript.svg" />
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+  
+<br>
+<br>
+
+Tools I use: <br>
+
+<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
+<img align="left" title="JetBrains Android Studio" alt="JetBrains Android Studio" width="26px" src="./logos/androidstudio.svg" />
+<img align="left" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
+<img align="left" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
+<img align="left" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
+<img align="left" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
+<img align="left" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
+</h3>
+
+<br>
+<br>
+<br>
 
 
 <h3 align="left">Support:</h3>
