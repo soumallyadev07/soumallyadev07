@@ -57,7 +57,7 @@ Tools I use: <br>
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SoumallyaDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SoumallyaDev" /></a></p><br><br>
+<p><a href="https://xscode.com/profile/soumallyadev07"> <img align="left" src="https://i.ibb.co/r0MqmPV/Support-IMG.png" height="50" width="200" alt="SoumallyaDev" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumallyadev07&show_icons=true&locale=en" alt="soumallyadev07" width="450" height="250" /></p>
 
