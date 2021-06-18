@@ -60,7 +60,7 @@ Tools I use: <br>
 <p><a href="https://xscode.com/profile/soumallyadev07"> <img align="left" src="https://i.ibb.co/r0MqmPV/Support-IMG.png" height="50" width="200" alt="SoumallyaDev" /></a></p><br><br>
 
 
-## *Github Stats*
+## Github Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=soumallyadev07&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=soumallyadev07&theme=dark" width="48%" >
