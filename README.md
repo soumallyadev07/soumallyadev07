@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumallya_" target="blank"><img src="https://img.shields.io/twitter/follow/soumallya_?logo=twitter&style=for-the-badge" alt="soumallya_" /></a> </p>
 
-- 🔭 I’m currently building **Healthic**
+- 🔭 I’m currently building **The Rant**
 
 - 👨‍💻 All of my projects are available at [https://soumallyadev.live](https://soumallyadev.live)
 
