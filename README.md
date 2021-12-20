@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Soumallya Dev</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Soumallya Dev</h1>
 <h3 align="center">A Final Year student studying Computer Science in India</h3>
 
-<p align="left"> <a href="https://twitter.com/soumallya_" target="blank"><img src="https://img.shields.io/twitter/follow/soumallya_?logo=twitter&style=for-the-badge" alt="soumallya_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/soumallya_" target="blank"><img src="https://img.shields.io/twitter/follow/soumallya_?logo=twitter&style=for-the-badge" alt="soumallya_" /></a> </p>
 
 - 🔭 I’m currently building [**The Rant**](https://www.the-rant.co/)
 
@@ -70,7 +71,7 @@ Tools I use: <br>
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=soumallyadev07&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=soumallyadev07&theme=algolia&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumallyadev07.soumallyadev07)
 </div>
