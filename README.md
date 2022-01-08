@@ -15,7 +15,6 @@
 <h3>
 Connect with me: <br>
   
-<a href="https://soumallyadev07.github.io/"><img align="left" title="soumallyadev07.github.io" alt="soumallyadev07.github.io" width="22px" src="./logos/web_globe.svg" /></a>
 <a href="https://twitter.com/Soumallya_/"><img align="left" title="Twitter - Soumallya Dev" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
 <a href="https://linkedin.com/in/soumallya-dev/"><img align="left" title="LinkedIn - Soumallya Dev" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
 <a href="https://instagram.com/_soumallya_/"><img align="left" title="Instagram - Soumallya Dev" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
