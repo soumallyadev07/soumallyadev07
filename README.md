@@ -8,7 +8,7 @@
 
 - 🐨 Upcoming Technology Spring Analyst @**Morgan Stanley** 
 
-- 👨‍💻 All of my projects are available at [https://soumallyadev.live](https://soumallyadev.live)
+- 👨‍💻 My Portfolio Website at [https://soumallyadev.live](https://soumallyadev.live)
 
 <img align="left" title="Soumallya Dev" alt="Soumallya Dev" width="400" src="./logos/animation.gif" />
 
