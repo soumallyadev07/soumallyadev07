@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://twitter.com/soumallya_" target="blank"><img src="https://img.shields.io/twitter/follow/soumallya_?logo=twitter&style=for-the-badge" alt="soumallya_" /></a> </p>
 
-- 🔭 I’m currently building [**The Rant**](https://soumallyadev07.github.io/MyPortfolio/)
+- 🔭 I’m currently building [**A new Portfolio Website**](https://soumallyadev.com)
 
-- 🐨 Upcoming Technology Spring Analyst @**Morgan Stanley** 
+- 🐨 Technology Analyst @**Morgan Stanley** 
 
 - 👨‍💻 My Portfolio Website at [https://soumallyadev07.github.io/MyPortfolio/](https://soumallyadev07.github.io/MyPortfolio/)
 
