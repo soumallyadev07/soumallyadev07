@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px">
 , I'm Soumallya Dev</h1>
-<h3 align="center">A Final Year student studying Computer Science in India</h3>
+<h3 align="center">A Computer Science Graduate in India</h3>
 
 <p align="center"> <a href="https://twitter.com/soumallya_" target="blank"><img src="https://img.shields.io/twitter/follow/soumallya_?logo=twitter&style=for-the-badge" alt="soumallya_" /></a> </p>
 
-- 🔭 I’m currently building [**A new Portfolio Website**](https://soumallyadev.com)
+- 🔭 I’m currently building [**Something Really Cool**](https://soumallyadev.com)
 
-- 🐨 Technology Analyst @**Morgan Stanley** 
+- 🐨 Technology Associate @**Morgan Stanley** 
 
-- 👨‍💻 My Portfolio Website at [https://soumallyadev07.github.io/MyPortfolio/](https://soumallyadev07.github.io/MyPortfolio/)
+- 👨‍💻 My Portfolio Website at [https://soumallyadev.com](https://soumallyadev.com)
 
 <img align="left" title="Soumallya Dev" alt="Soumallya Dev" width="400" src="./logos/animation.gif" />
 
